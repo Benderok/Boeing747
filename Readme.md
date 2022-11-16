@@ -70,3 +70,40 @@ fuel supply valve on the rear spar No. 2 tank will also open.
 > NOTE: It is recommended that you do an APU starting and operation procedure at a minimum of one time in a 7 day (weekly) interval if the airplane has not operated and you did not do the APU preservation procedure during this time.
 
 [Airplanes photos](https://www.airliners.net/)
+
+## Chapter 28 Fuel
+
+### Pressure fueling
+---
+*Fueling procedure*
+
+1. Do the operator supplied procedures to position the fuel vehicle.
+
+2. Connect a bonding cable from the fueling source to an approved electrical grounding or bonding connection on the airplane.
+
+3. Open these access panels:
+
+>Number, Name/Location
+>>521BB, Access Panel - Fueling Receptacles|
+>>621BB, Access Panel - Fueling Receptacles|
+
+4. Connect the fuel hose to the refuel receptacle adapter:
+
+* Remove the refuel receptacle cap.
+* Make sure there are no fuel leaks.
+* Make sure the refuel receptacle adapter is clean and not damaged.
+* Look for screws that attach to the adapter that are loose, damaged or missing.
+* Look for lugs on the adapter that are bent cracked or missing.
+* Make sure the defuel lever is correctly positioned in the recess for the refuel receptacle adapter.
+* Connect the refuel nozzle to the refuel receptacle.
+* Repeat these steps for each fuel hose.
+
+5. Put the manual handle for the FUELING SHUTOFF VALVE to the OPEN position (left wing and right wing, if necessary).
+
+6. Make sure the panel P42 floodlights are on.
+
+7. Set the SELECT QTY thumbwheels to the total fuel quantity necessary. Move the SET QTY switch to the TOTAL position and release.
+
+8. Put the ALL VALVES switch to the OPEN position.
+
+9. Activate the fuel shutoff control switch (deadman switch) to start the fuel flow.
