@@ -119,3 +119,16 @@ fuel supply valve on the rear spar No. 2 tank will also open.
 
 3. Make sure that the reservoir remote quantity gage for the systems 1, 2, 3, and 4 shows in the green band.
 
+## Chapter 12 Oil servicing
+
+### Engine Oil Replenishing
+---
+*Procedure*
+
+1. Make sure that the engine is cool down for a minimum of ten minutes after it stops.
+
+2. Open the oil tank filler.
+
+3. Add approved engine lubricating oil, until the oil is level with the filler cap seating flange.
+
+4. Install the oil filler cap and attach it with the filler cap lick latch.
