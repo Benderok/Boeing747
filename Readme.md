@@ -70,3 +70,20 @@ fuel supply valve on the rear spar No. 2 tank will also open.
 > NOTE: It is recommended that you do an APU starting and operation procedure at a minimum of one time in a 7 day (weekly) interval if the airplane has not operated and you did not do the APU preservation procedure during this time.
 
 [Airplanes photos](https://www.airliners.net/)
+
+## Chapter 12 Water servicing
+
+### Potable Water Tanks Servicing (Fill)
+---
+*Procedure*
+
+1. Open this access panel: Potable Water.
+
+2. Push the cap away from the fitting that you use to fill the water tanks.
+
+3. Connect the potable water servicing equipment, supply hose on the water source to the fitting that you use to fill the water tanks.
+
+4. Pull the fill valve handle down.
+
+5. To fill the water tanks fully, fill the water tank(s) with potable (drinkable) water until you can see the water flow from the overflow port.
+6. Disconnect the potable water servicing equipment, supply hose on the water source from the fitting that you use to fill the water tank(s).
