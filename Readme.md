@@ -26,4 +26,43 @@
 |P6|H|18|APU DC FUEL PUMP|
 |P6|K|18|APU ALT CONTROL|
 
-2. 
+2. Set the BATTERY switch on the P5 overhead panel to the ON position.
+
+3. Look at the individual tank fuel quantity display on the EICAS maintenance page. **NOTE**: A minimum of **_2800 pounds (1270 kilograms)_** of fuel must be in the No. 2 fuel tank to
+operate the APU for one hour.
+
+4. Set the STANDBY POWER switch to the AUTO position.
+
+5. Set the APU air supply valve on the P5 overhead panel to the OFF position.
+
+6. Do a test of the fire/overheat detection systems for the APU.
+
+7. Set the APU control switch on the P5 overhead panel to the ON position.
+
+**NOTE**: When the APU control switch is set to the ON position, the air inlet door will open. The
+fuel supply valve on the rear spar No. 2 tank will also open.
+
+8. Set the APU control switch to the START position, hold the switch at the START position for one second and manually move the switch to the ON position.
+
+**NOTE**: It is recommended that you do not release the APU control switch from the START position to the ON position. Damage to the internal contacts in the APU control switch can cause an APU no start problem.
+
+9. Make sure these start conditions occur:
+* An N2 indication shows.
+
+**NOTE**: An N2 indication will show on the EICAS display when the starter motor starts to turn.
+* The N1 rotor speed is 100 percent in one minute or less after the starter motor starts to turn.
+* The APU EGT does not go into the red area.
+
+10. Make sure the "*APU RUNNING*" (in white letters) shows on the main EICAS display at the bottom of the last page.
+
+11. Make sure the APU operation is in the APU engine performance limits of Table below:
+
+|INDICATION|CONDITION|LIMIT REQUIREMENTS|
+|---|---|---|
+|EGT indication|Maximum load: 180 KVA electrical load, one air conditioning pack on and a dual main engine start|1186°F (641°C)|
+|RPM Indication|Usual operation|N1: 100 Percent N2: 80-95 Percent|
+|OIL QTY 0.22LO|Low oil level|22 Percent of a Full Tank|
+|OIL QTY 0.50RF|Refill the oil tank|50 Percent of a Full Tank|
+
+---
+**END OF TASK**
