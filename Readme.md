@@ -70,3 +70,17 @@ fuel supply valve on the rear spar No. 2 tank will also open.
 > NOTE: It is recommended that you do an APU starting and operation procedure at a minimum of one time in a 7 day (weekly) interval if the airplane has not operated and you did not do the APU preservation procedure during this time.
 
 [Airplanes photos](https://www.airliners.net/)
+
+## Chapter 12 Oil servicing
+
+### Engine Oil Replenishing
+---
+*Procedure*
+
+1. Make sure that the engine is cool down for a minimum of ten minutes after it stops.
+
+2. Open the oil tank filler.
+
+3. Add approved engine lubricating oil, until the oil is level with the filler cap seating flange.
+
+4. Install the oil filler cap and attach it with the filler cap lick latch.
