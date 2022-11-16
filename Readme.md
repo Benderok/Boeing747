@@ -68,3 +68,5 @@ fuel supply valve on the rear spar No. 2 tank will also open.
 **END OF TASK**
 
 > NOTE: It is recommended that you do an APU starting and operation procedure at a minimum of one time in a 7 day (weekly) interval if the airplane has not operated and you did not do the APU preservation procedure during this time.
+
+[Airplanes photos](https://www.airliners.net/)
