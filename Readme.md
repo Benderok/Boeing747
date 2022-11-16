@@ -107,3 +107,15 @@ fuel supply valve on the rear spar No. 2 tank will also open.
 8. Put the ALL VALVES switch to the OPEN position.
 
 9. Activate the fuel shutoff control switch (deadman switch) to start the fuel flow.
+## Chapter 29 Hydraulics
+
+### Hydraulic Reservoir Fluid Level Check
+---
+*Procedure*
+
+1. Get access to the left body landing gear door. to the Ground Service Station for the hydraulic reservoirs.
+
+2. Set the handle of the reservoir fill selector valve to the position (1, 2, 3, or 4) for the applicable hydraulic system.
+
+3. Make sure that the reservoir remote quantity gage for the systems 1, 2, 3, and 4 shows in the green band.
+
