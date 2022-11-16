@@ -77,7 +77,7 @@ fuel supply valve on the rear spar No. 2 tank will also open.
 ---
 *Procedure*
 
-1. Open this access panel: Potable Water.
+1. Open this access panel: Potable Water11.
 
 2. Push the cap away from the fitting that you use to fill the water tanks.
 
