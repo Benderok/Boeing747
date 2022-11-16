@@ -70,3 +70,15 @@ fuel supply valve on the rear spar No. 2 tank will also open.
 > NOTE: It is recommended that you do an APU starting and operation procedure at a minimum of one time in a 7 day (weekly) interval if the airplane has not operated and you did not do the APU preservation procedure during this time.
 
 [Airplanes photos](https://www.airliners.net/)
+
+## Chapter 29 Hydraulics
+
+### Hydraulic Reservoir Fluid Level Check
+---
+*Procedure*
+
+1. Get access to the left body landing gear door. to the Ground Service Station for the hydraulic reservoirs.
+
+2. Set the handle of the reservoir fill selector valve to the position (1, 2, 3, or 4) for the applicable hydraulic system.
+
+3. Make sure that the reservoir remote quantity gage for the systems 1, 2, 3, and 4 shows in the green band.
