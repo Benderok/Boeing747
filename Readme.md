@@ -83,4 +83,4 @@ fuel supply valve on the rear spar No. 2 tank will also open.
 
 3. Add approved engine lubricating oil, until the oil is level with the filler cap seating flange.
 
-4. Install the oil filler cap and attach it with the filler cap lick latch.
+4. Install the oil filler cap and attach it with the filler cap lock latch.
